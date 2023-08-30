@@ -1,6 +1,6 @@
 🔭 I’m currently studying in Galgotias University
 
-🌱 I’m currently learning Java.
+🌱 I’m currently learning Java and Web Development.
 
 👯 I’m looking to collaborate on OpenSource Projects
 
