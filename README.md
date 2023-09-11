@@ -5,7 +5,7 @@
 
 👯 I’m looking to collaborate on OpenSource Projects
 
-👨‍💻 All of my projects are available at Git hub
+👨‍💻 All of my projects are available at <a href="https://github.com/sabeel28">Git Hub</a>
 
 📫 How to reach me sabeel.aijaz28@gmail.com
 
