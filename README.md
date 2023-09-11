@@ -1,15 +1,15 @@
 <h1>Hi 👋,I'm Sabeel</h1>
-🔭 I’m currently studying in Galgotias University
+<p>🔭 I’m currently studying in <b>Galgotias University</b></p>
 
-🌱 I’m currently learning Java and Web Development.
+<p>🌱 I’m currently learning <b>Java and Web Development.</b></p>
 
-👯 I’m looking to collaborate on OpenSource Projects
+<p>👯 I’m looking to collaborate on OpenSource Projects</p>
 
-👨‍💻 All of my projects are available at <a href="https://github.com/sabeel28">Git Hub</a>
+<p>👨‍💻 All of my projects are available at <a href="https://github.com/sabeel28">Git Hub</a></p>
 
-📫 How to reach me sabeel.aijaz28@gmail.com
+<p>📫 How to reach me <a href="https://mail.google.com/mail/u/0/#inbox">sabeel.aijaz28@gmail.com</a></p>
 
-⚡ Fun fact I play games and go to the GYM very often
+<p>⚡ Fun fact <b>I play games and go to the GYM very often.</b></p>
 
 <!---
 sabeel28/sabeel28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
