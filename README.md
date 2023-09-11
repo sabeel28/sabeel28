@@ -1,5 +1,5 @@
 <h1>Hi 👋,I'm Sabeel</h1>
-<hr>
+
 <p>I am Passionate Web Developer </p>
 <p>🙋‍♂️ About Me</p><hr>
 <p>🔭 I’m currently studying in <b>Galgotias University</b></p>
