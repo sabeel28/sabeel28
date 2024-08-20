@@ -1,3 +1,5 @@
+![Alt text](relative%20path/to/img.jpg?raw=true "Title")
+
 <h1><p style="text-align:center">Hi 👋,I'm Sabeel</p></h1>
 
 <p>I am Passionate Web Developer </p>
