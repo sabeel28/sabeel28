@@ -1,4 +1,3 @@
-file:///C:/Users/Hp/Desktop/Resume/4678408.webp
 <h1><p style="text-align:center">Hi 👋,I'm Sabeel</p></h1>
 
 <p>I am Passionate Web Developer </p>
