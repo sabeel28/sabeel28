@@ -4,14 +4,7 @@
 <p>🙋‍♂️ About Me</p>
 
 # Title
-
-Some text above the line.
-
 ---
-
-Some text below the line.
-
-
 <p>🔭 I’m currently studying in <b>Galgotias University</b></p>
 
 <p>🌱 I’m currently learning <b>Java and Web Development.</b></p>
