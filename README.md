@@ -1,7 +1,7 @@
 <h1><p style="text-align:center">Hi 👋,I'm Sabeel</p></h1>
 
 <p>I am Passionate Java Developer </p>
-<p>🙋‍♂️ About Me</p><hr>
+<p>🙋‍♂️ About Me</p>
 
 # Title
 
