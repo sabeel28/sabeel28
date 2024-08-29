@@ -1,8 +1,9 @@
-
 <h1><p style="text-align:center">Hi 👋,I'm Sabeel</p></h1>
 
 <p>I am Passionate Web Developer </p>
 <p>🙋‍♂️ About Me</p><hr>
+---
+
 <p>🔭 I’m currently studying in <b>Galgotias University</b></p>
 
 <p>🌱 I’m currently learning <b>Java and Web Development.</b></p>
