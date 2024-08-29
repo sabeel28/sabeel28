@@ -3,8 +3,6 @@
 <p>I am Passionate Java Developer </p>
 <p>🙋‍♂️ About Me</p>
 
-# Title
----
 <p>🔭 I’m currently studying in <b>Galgotias University</b></p>
 
 <p>🌱 I’m currently learning <b>Java and Web Development.</b></p>
