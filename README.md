@@ -1,4 +1,3 @@
-![Capture](https://github.com/user-attachments/assets/d58a7887-7961-406b-8160-f7208a8ba454)
 
 <h1><p style="text-align:center">Hi 👋,I'm Sabeel</p></h1>
 
