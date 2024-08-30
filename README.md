@@ -24,6 +24,7 @@ Updates: [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.lin
 Projects: [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/sabeel28)
 
 ## 🚀 Languages and Tools:
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -32,6 +33,9 @@ Projects: [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sabeel28&theme=radical&hide_border=true)
 
 ## 📊 My GitHub Stats
 
@@ -46,10 +50,6 @@ Projects: [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sabeel28&color=red)
 ![GitHub Followers](https://img.shields.io/github/followers/sabeel28?label=Followers&style=social)
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sabeel28&theme=radical&hide_border=true)
 
 
 
