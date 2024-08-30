@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://example.com](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Fillustrations%2Fman-using-laptop&psig=AOvVaw3h988TZ7YVnDgXtHJFtaUK&ust=1725079579589000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNi2m8L0m4gDFQAAAAAdAAAAABAE)/your-image.png" alt="Example Image" width="400"/>
+  <img src="https://example.com/file:///C:/Users/Hp/Desktop/hcl/Untitled%20design.png" alt="Example Image" width="400"/>
 </div>
 
 # Hi 👋,I'm Sabeel
