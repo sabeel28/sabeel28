@@ -42,7 +42,11 @@ Projects: [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com
 ![Trophies](https://github-profile-trophy.vercel.app/?username=sabeel28&theme=radical)
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=green)
+## ❤ Views and Followers
+
+![Profile Views](https://komarev.com/ghpvc/?username=sabeel28&color=red)
+![GitHub Followers](https://img.shields.io/github/followers/sabeel28?label=Followers&style=social)
+
 
 
 
