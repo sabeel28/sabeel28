@@ -16,7 +16,23 @@
 
 * 📫 How to reach me <a href="https://mail.google.com/mail/u/0/#inbox">sabeel.aijaz28@gmail.com
 
-* ⚡ Fun fact <b>I play games and go to the GYM 💪 . 
+* ⚡ Fun fact <b>I play games and go to the GYM 💪 .
+
+## Find Me
+Updates:
+
+## 🚀 Languages and Tools:
+
+- **Languages:**
+  - JavaScript
+  - Python
+  - Java
+
+- **Tools:**
+  - Git
+  - Docker
+  - Visual Studio Code
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=green)
 
