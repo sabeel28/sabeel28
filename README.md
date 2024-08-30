@@ -33,18 +33,14 @@ Projects: [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sabeel28&theme=radical&hide_border=true)
-
 ## 📊 My GitHub Stats
 
 ![Sabeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabeel28&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabeel28&layout=compact&theme=radical)
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sabeel28&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=sabeel28&theme=radical)
+## 🔥 Streak Stats
 
+![Sabeel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabeel28&theme=radical)
 
 ## ❤ Views and Followers
 
