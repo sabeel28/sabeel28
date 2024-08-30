@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="file:///C:/Users/Hp/Desktop/hcl/Untitled%20design.png" alt="Example Image" width="400"/>
-</div>
+![image](https://github.com/user-attachments/assets/d98e0baa-01a7-472b-ba78-c32da3cc112c)
 
 # Hi 👋,I'm Sabeel
 
