@@ -47,6 +47,9 @@ Projects: [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com
 ![Profile Views](https://komarev.com/ghpvc/?username=sabeel28&color=red)
 ![GitHub Followers](https://img.shields.io/github/followers/sabeel28?label=Followers&style=social)
 
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sabeel28&theme=radical&hide_border=true)
 
 
 
