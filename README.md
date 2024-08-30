@@ -21,6 +21,7 @@
 ## Find Me
 Updates: [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mohd-sabeel-aijaz-062718240//)
 &nbsp;
+Projects: [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/sabeel28)
 
 ## 🚀 Languages and Tools:
 
@@ -34,8 +35,6 @@ Updates: [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.lin
   - Docker
   - Visual Studio Code
 
-
-[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/sabeel28)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=green)
 
