@@ -1,6 +1,6 @@
 <h1><p style="text-align:center">Hi 👋,I'm Sabeel</p></h1>
 
-<p>I am Passionate Java Developer </p>
+# I am Passionate Java Developer
 <p>🙋‍♂️About Me</p>
 
 * 🔭 I’m currently studying in <b>Galgotias University
