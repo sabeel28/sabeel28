@@ -35,9 +35,6 @@ Projects: [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com
 
 ## 📊 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
 ![Sabeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabeel28&show_icons=true&theme=radical)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=green)
