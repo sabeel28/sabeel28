@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://example.com/file:///C:/Users/Hp/Desktop/hcl/Untitled%20design.png" alt="Example Image" width="400"/>
+  <img src="file:///C:/Users/Hp/Desktop/hcl/Untitled%20design.png" alt="Example Image" width="400"/>
 </div>
 
 # Hi 👋,I'm Sabeel
