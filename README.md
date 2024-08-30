@@ -1,8 +1,8 @@
 # Hi 👋,I'm Sabeel
 
 ### I am Passionate Java Developer
-***
-# 🙋‍♂️About Me
+___
+## 🙋‍♂️About Me
 
 * 🔭 I’m currently studying in <b>Galgotias University
 
