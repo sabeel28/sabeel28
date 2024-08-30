@@ -7,13 +7,13 @@
 
 <p>🌱 I’m currently learning <b>Java and Web Development.</b></p>
 
-<p>👯 I’m looking to collaborate on OpenSource Projects</p>
+<p>* 👯 I’m looking to collaborate on OpenSource Projects</p>
 
-<p>👨‍💻 All of my projects are available at <a href="https://github.com/sabeel28">Git Hub</a></p>
+<p>* 👨‍💻 All of my projects are available at <a href="https://github.com/sabeel28">Git Hub</a></p>
 
-<p>📫 How to reach me <a href="https://mail.google.com/mail/u/0/#inbox">sabeel.aijaz28@gmail.com</a></p>
+<p>* 📫 How to reach me <a href="https://mail.google.com/mail/u/0/#inbox">sabeel.aijaz28@gmail.com</a></p>
 
-<p>⚡ Fun fact <b>I play games and go to the GYM 💪 . </b></p>
+<p>* ⚡ Fun fact <b>I play games and go to the GYM 💪 . </b></p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
