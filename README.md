@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://example.com/your-image.png" alt="Example Image" width="400"/>
+</div>
+
 # Hi 👋,I'm Sabeel
 
 ### I am Passionate Java Developer
