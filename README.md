@@ -16,7 +16,7 @@
 
 * ⚡ Fun fact <b>I play games and go to the GYM 💪 . 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=green)
 
 
 
