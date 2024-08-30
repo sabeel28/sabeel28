@@ -32,9 +32,9 @@ Updates:
   - Docker
   - Visual Studio Code
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://https://www.linkedin.com/in/mohd-sabeel-aijaz-062718240//)
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mohd-sabeel-aijaz-062718240//)
 &nbsp;
-[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/)
+[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/sabeel28)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=green)
 
