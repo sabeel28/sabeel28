@@ -1,7 +1,7 @@
 # Hi 👋,I'm Sabeel
 
 ### I am Passionate Java Developer
-___
+
 ## 🙋‍♂️About Me
 
 * 🔭 I’m currently studying in <b>Galgotias University
