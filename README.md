@@ -1,9 +1,10 @@
 ![image](https://github.com/user-attachments/assets/d98e0baa-01a7-472b-ba78-c32da3cc112c)
+
 <div align="center">
-  **Hi,👋 I'm Sabeel**
+  ## Hi,👋 I'm Sabeel 
 </div>
 
-### I am Passionate Java Developer
+### I am Passionate Java Developer 
 
 ## 🙋‍♂️About Me
 
