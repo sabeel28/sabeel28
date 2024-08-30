@@ -1,4 +1,4 @@
-<h1><p style="text-align:center">Hi 👋,I'm Sabeel</p></h1>
+# Hi 👋,I'm Sabeel
 
 ### I am Passionate Java Developer
 ***
