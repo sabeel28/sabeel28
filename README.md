@@ -19,7 +19,9 @@
 * ⚡ Fun fact <b>I play games and go to the GYM 💪 .
 
 ## Find Me
-Updates: 
+Updates: [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mohd-sabeel-aijaz-062718240//)
+&nbsp;
+
 ## 🚀 Languages and Tools:
 
 - **Languages:**
@@ -32,8 +34,7 @@ Updates:
   - Docker
   - Visual Studio Code
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mohd-sabeel-aijaz-062718240//)
-&nbsp;
+
 [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/sabeel28)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=green)
