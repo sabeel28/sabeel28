@@ -2,7 +2,7 @@
 
 ### I am Passionate Java Developer
 ***
-<p>🙋‍♂️About Me</p>
+# 🙋‍♂️About Me
 
 * 🔭 I’m currently studying in <b>Galgotias University
 
