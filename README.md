@@ -24,7 +24,7 @@ Updates: [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.lin
 Projects: [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/sabeel28)
 
 
-## Connect with Me
+
 <a href="https://leetcode.com/u/sabeel_28/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30"/>
 </a>
@@ -37,8 +37,9 @@ Projects: [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com
 <a href="https://www.hackerrank.com/profile/sabeel_aijaz28">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="30" height="30"/>
 </a>
-
-
+<a href="https://www.hackerearth.com/@sabeel.aijaz28">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="HackerEarth" width="30" height="30"/>
+</a>
 
 
 ## 🚀 Languages and Tools:
