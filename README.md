@@ -24,12 +24,20 @@ Updates: [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.lin
 Projects: [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/sabeel28)
 
 
+## Connect with Me
 <a href="https://leetcode.com/u/sabeel_28/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30"/>
 </a>
 <a href="https://www.codechef.com/users/sabtech">
     <img src="https://cdn.codechef.com/sites/default/files/uploads/pictures/8c3a1ce5d0376ab5259c1eddb4edb43e.png" alt="CodeChef" width="30" height="30"/>
 </a>
+<a href="https://codeforces.com/profile/sabeel.aijaz28">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Codeforces_logo.svg/512px-Codeforces_logo.svg.png" alt="Codeforces" width="30" height="30"/>
+</a>
+<a href="https://www.hackerrank.com/profile/sabeel_aijaz28">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="30" height="30"/>
+</a>
+
 
 
 
