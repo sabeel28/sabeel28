@@ -23,7 +23,9 @@ Updates: [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.lin
 &nbsp;
 Projects: [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/sabeel28)
 
-## Connect with Me
+[![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)](https://leetcode.com/u/sabeel_28/)
+[![CodeChef](https://cdn.codechef.com/sites/default/files/uploads/pictures/8c3a1ce5d0376ab5259c1eddb4edb43e.png)](https://www.codechef.com/users/sabtech)
+
 <a href="https://leetcode.com/u/sabeel_28/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30"/>
 </a>
