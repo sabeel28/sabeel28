@@ -22,7 +22,9 @@
 Updates: [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mohd-sabeel-aijaz-062718240//)
 &nbsp;
 Projects: [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/sabeel28)
-Struggling:https://leetcode.com/u/sabeel_28/
+
+Struggling: [https://leetcode.com/u/sabeel_28/](https://leetcode.com/u/sabeel_28/)
+
 
 ## 🚀 Languages and Tools:
 
