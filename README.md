@@ -69,6 +69,14 @@ Projects: [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com
 
 ![Sabeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabeel28&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabeel28&layout=compact&theme=radical)
+graph TD;
+    A[Issue] --> B[Commit];
+    B --> C[Pull Request];
+    C --> D[Code Review];
+    D --> E[Merge];
+    E --> |If Approved| F[Close PR];
+    E --> |If Changes Requested| B;
+
 
 ## 🔥 Streak Stats
 
