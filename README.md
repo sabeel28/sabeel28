@@ -8,7 +8,7 @@
 
 * 🔭 I’m currently studying in <b>Galgotias University
 
-* 🌱 I’m currently learning <b>Java and Web Development.
+* 🌱 I’m currently learning <b>Java & DSA
 
 * 👯 I’m looking to collaborate on OpenSource Projects
 
