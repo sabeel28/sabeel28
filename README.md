@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️About Me
 
-* 🔭 Graduated in Computer Science in 2024.
+* 🔭 Graduated in <b> Computer Science </b> in 2024.
 
 * 🌱 I’m currently learning <b>Java & DSA
 
