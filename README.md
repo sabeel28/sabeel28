@@ -2,7 +2,7 @@
 
 
 <!-- Header Section -->
-<h1 align="center">Hi 👋, I'm Sabeel Aijaz</h1>
+<h1 align="center">Hi 👋, I'm Sabeel</h1>
 <h3 align="center">💻 Passionate Java Developer | Tech Enthusiast | Problem Solver</h3>
 
 ---
@@ -13,7 +13,7 @@
 - 🎓 Graduated with a **B.Tech in Computer Science (2024)**  
 - 💻 Currently learning **Java** and **Data Structures & Algorithms (DSA)**  
 - 🤝 Open to collaborate on **Java-based projects** and **Open Source** contributions  
-- 🚀 Exploring backend technologies like **Spring Boot** and **REST APIs**  
+- 🚀 Exploring backend technologies like **Spring Boot** 
 - 📬 Reach me at **sabeel.aijaz28@gmail.com**  
 - ⚡ Fun fact: I love gaming 🎮 and going to the gym 💪  
 
@@ -69,13 +69,19 @@
 ![Sabeel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabeel28&theme=radical)
 
 ---
-## ❤ Views and Followers :)
 
-![Profile Views](https://komarev.com/ghpvc/?username=sabeel28&color=red)
-![GitHub Followers](https://img.shields.io/github/followers/sabeel28?label=Followers&style=social)
+### 👁️ Profile Views & Followers
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sabeel28&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/sabeel28?label=Followers&style=social" alt="Followers"/>
+</p>
+
+---
 
 
 
+💬 *“Code. Learn. Improve. Repeat.”* 
 ❇️ :octocat:
 <!---
 sabeel28/sabeel28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
